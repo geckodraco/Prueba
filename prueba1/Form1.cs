@@ -23,9 +23,9 @@ namespace prueba1
             MessageBox.Show("Hola");
         }
 
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-            MessageBox.Show("Hola");
-        }
+        //private void textBox2_TextChanged(object sender, EventArgs e)
+        //{
+        //    MessageBox.Show("Hola");
+        //}
     }
 }
